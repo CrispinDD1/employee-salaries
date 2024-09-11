@@ -1,7 +1,9 @@
 # employee-salaries
 
 <!-- Description -->
-## This project is a browser based application to help view employee payroll data. By utilizing JavaScript, the app dynamically updates the HTML. Ultimately providing a seemless experience. 
+## Description 
+
+This project is a browser based application to help view employee payroll data. By utilizing JavaScript, the app dynamically updates the HTML. Ultimately providing a seemless experience. 
 
 <!-- The what, why, and how -->
 - What: This is an employee payroll tracker that allows for input of employee data.
